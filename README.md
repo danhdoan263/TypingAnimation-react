@@ -1,6 +1,7 @@
 # TypingAnimation Component
 
 Một React component tạo hiệu ứng typing (đánh máy) với cursor nhấp nháy, mô phỏng việc gõ phím thực tế.
+![DEMO](./ScreenRecording2025-05-30at3.05.11AM-ezgif.com-video-to-gif-converter.gif)
 
 ## 🎬 Features
 
