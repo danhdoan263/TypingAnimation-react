@@ -1,7 +1,7 @@
 # TypingAnimation Component
 
 A React component that creates a realistic typing effect with blinking cursor, simulating real keyboard input.
-
+![DEMO](./ScreenRecording2025-05-30at3.05.11AM-ezgif.com-video-to-gif-converter.gif)
 ## 🎬 Features
 
 - ✅ **Typing Effect**: Display text character by character
